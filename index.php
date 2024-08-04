@@ -5,7 +5,7 @@ session_start();
 $host = 'localhost';
 $db = 'creditcardvault';
 $user = 'root';
-$password = 'your_password';
+$password = '';
 
 // Create a new PDO instance
 try {
